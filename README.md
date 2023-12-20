@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @davildaran
-- 👀 I’m interested in writing, Machine Learning, NLP, travel, books, food. 
-- 🌱 I’m currently learning Javascript, React, state management (Hookstate vs Redux), TypeScript, Docker, Python, SQLAlchemy, FastAPI, 
+- 👀 I’m interested in Large Language Models, Machine Learning, NLP, travel, books, food. 
+- 🌱 I’m currently using Golang, Kubernetes, GitOps, Platform Engineering, GitHub Actions, Terraform, CUE, Grafana, Loki, Prometheus. I also have some experience with TypeScript, React, Python.
+  - I'm playing around with microk8s locally to set up a fullstack application plus Observability stack. An attempt at a PaaS that can be cloud agnostic and little to no vendor lock-in.
 - 💞️ I’m looking to collaborate on anything I use that I find helpful or fun. I've started writing some (hopefully) helpful API calls for the Habitica app. 
 - 📫 How to reach me: davildaran@gmail.com
 
